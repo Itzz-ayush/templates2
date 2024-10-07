@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font: bolder;
+    font-size: 50px;
+}
+#a {
+    background-color: white;
+    height: 2px;
+    margin-bottom: 10px;
+
+    
+}
+#b {
+    color: white;
+    font-size: 25px;
+    font: bold;
+    margin-top: 10px;
+    padding-left: 10px;
+    padding-top: 25px;
+    display: inline;
+}
+#c {
+    color: white;
+    font-size: 20px;
+    padding: none;
+    margin: none;
+    display: inline;
+}
+#d {
+    padding: none;
+    margin: none;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
